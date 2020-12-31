@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/settings_16.png</file>
+        <file>icons/power-off_16.png</file>
+        <file>icons/home_16.png</file>
+        <file>icons/forward_16.png</file>
+        <file>icons/back_16.png</file>
+        <file>icons/sync_16.png</file>
+        <file>icons/icon.ico</file>
+        <file>icons/DejaVuSerif.ttf</file>
+    </qresource>
+</RCC>
